@@ -9,7 +9,12 @@
 </head>
 <body>
     <h1>Hola mundo!!!</h1>
+<<<<<<< HEAD
     <p>Párrafo agregado</p>
+=======
+    <p>Cambios hechos des la página de GitHub</p>
+    <p>Últimos cambios....</p>
+>>>>>>> 91f6b2161331c97c06554cbe7027e3f88782d3c2
 </body>
 </html>
 >>>>>>> 81c4fe884efc83767aefcf54082bcb79b2c63db0
