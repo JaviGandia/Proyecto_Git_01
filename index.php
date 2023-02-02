@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1>Hola mundo!!!</h1>
-    <p>Párrafo agregado</p>
+    <p>Cambios hechos des la página de GitHub</p>
 </body>
 </html>
