@@ -9,7 +9,13 @@
 </head>
 <body>
     <h1>Hola mundo!!!</h1>
+<<<<<<< HEAD
     <p>Párrafo de prueba</p>
 </body>
 <script src="scripts/scripts.js"></script>
 </html>
+=======
+    <p>Párrafo agregado</p>
+</body>
+</html>
+>>>>>>> 81c4fe884efc83767aefcf54082bcb79b2c63db0
