@@ -9,5 +9,7 @@
 </head>
 <body>
     <h1>Hola mundo!!!</h1>
+    <p>Párrafo de prueba</p>
 </body>
+<script src="scripts/scripts.js"></script>
 </html>
