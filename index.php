@@ -9,12 +9,6 @@
 </head>
 <body>
     <h1>Hola mundo!!!</h1>
-<<<<<<< HEAD
-    <p>Párrafo de prueba</p>
-</body>
-<script src="scripts/scripts.js"></script>
-</html>
-=======
     <p>Párrafo agregado</p>
 </body>
 </html>
